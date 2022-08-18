@@ -8,4 +8,4 @@ def main(x,y):
         str: return answer.
     """
     s=f'({6}+{4})*2={(6+4)*2}'
-    return "\""+s+"\""
+    return s
