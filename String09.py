@@ -10,3 +10,4 @@ def main(x1,x2,x3):
     """
     answer=f"{x1}, {x2}, {x3}"
     return  "\"["+answer+"]\""
+print(main(1,2,3))
