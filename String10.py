@@ -7,5 +7,5 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    answer=f'({6}+{4})*2={(6+4)*2}'
+    answer=f'({x}+{y})*2={(x+y)*2}'
     return "\""+answer+"\""
